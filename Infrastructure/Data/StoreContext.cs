@@ -10,5 +10,6 @@ namespace skinet.Infrastructure.Data
         }
 
           public DbSet<Product> Products { get; set; }
+
     }
 }
